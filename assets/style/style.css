@@ -14,7 +14,7 @@ header {
     text-align: center;
     background-color: #4aaaa5;
     color: #ffffff;
-    width: 100px;
+    width: 150px;
     font-family: 'Georgia', Times, Temes New Roman, Serif;
     float: left;  
 
@@ -33,3 +33,127 @@ header {
     float: left;  
 
 }
+
+.Portfolio  {
+
+    padding-top: :20px;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    text-align: center;
+    color: #a3a3c2;
+    width: 70px;
+    font-family: 'Georgia', Times, Temes New Roman, Serif;
+    float: left;  
+
+}
+
+.Contact  {
+
+    padding-top: :20px;
+    padding-left: 2.5px;
+    text-align: center;
+    color: #a3a3c2;
+    width: 70px;
+    font-family: 'Georgia', Times, Temes New Roman, Serif;
+    float: left;  
+
+}
+
+#Line {
+    background-color: #cccccc;
+    height: 2px;
+
+}
+
+#content{
+
+    background-color: #cccccc;
+    width:1024px;
+    height:430px;
+
+
+}
+
+#aboutMe{
+     
+     width:500px;
+     height:370px;
+     background-color: #ffffff;
+     position:relative;
+     top: 25px;
+     left:100px;
+     float:left;
+}
+
+h1 {
+
+    margin-left: 10px;
+    font-family: 'Georgia', Times, Times New Roman;
+    color: #4aaaa5;
+    margin-left: 20px;
+}
+
+#aboutMeLine {
+
+    width: 450px;
+    height: 2px;
+    background-color: #D6DBDF;
+}
+
+
+img {
+    float:left;
+    width:120px;
+    height:130px;
+    display:inline-block;
+    margin:20px;
+    margin-top: 5px;
+}
+
+ p {
+
+    font-family: Arial,'Helvica Neue', Helvica, sans-serif;
+    margin: 10px;
+    background-color: #ffffff;
+ }
+
+ #connectMe {
+    width:230px;
+    height:160px;
+    background-color: #ffffff;
+    position: relative;
+    top:25px;
+    left:150px;
+    float:left;
+ }
+
+
+ h2 {
+      position: relative;
+      left: 25px;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      font-size: 20px;
+      color: #4aaaa5;
+
+ }
+
+ #connectMeLine {
+    width:180px;
+    background-color: #D6DBDF;
+ }
+
+ #bottomLine {
+    width: 1024px;
+    height:8px;
+    background-color: #4aaaa5;
+
+ }
+
+ #footer {
+    width:1024px;
+    height: 100px;
+    background-color: #666666;
+    color: #ffffff;
+    padding-top: 50px;
+    text-align: center;
+ }
